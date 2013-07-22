@@ -1,8 +1,8 @@
 {
-  "name": "datatables",
-  "description": "DataTables with bindings for Twitter Bootstrap",
-  "homepage": "https://github.com/TimHeckel/meteor-datatables",
-  "author": "Tim Heckel  (http://timheckel.com)",
-  "version": "0.1.3",
-  "git": "https://github.com/TimHeckel/meteor-datatables.git"
+  "name": "datatables-without-css",
+  "description": "DataTables with bindings for Twitter Bootstrap. Without the CSS.",
+  "homepage": "https://github.com/Ore4444/meteor-datatables",
+  "author": "Ore Landau",
+  "version": "0.0.1",
+  "git": "https://github.com/Ore4444/meteor-datatables.git"
 }
